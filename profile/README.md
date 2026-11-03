@@ -269,8 +269,8 @@ Built with ❤️ for the Stellar community.
 ## 📞 Contact
 
 - **GitHub:** [@HyperDevTools](https://github.com/HyperDevTools)
-- **Maintainer:** [@Code-Kaybee](https://github.com/Code-Kaybee)
-- **Email:** hyperdevtools@example.com (update this!)
+- **Issues:** [Report bugs or request features](https://github.com/HyperDevTools)
+- **Discussions:** Join our community discussions
 
 ---
 
@@ -294,7 +294,7 @@ If you find our tools useful:
 
 <div align="center">
 
-Made with 💻 and ☕ by the HyperDevTools team
+**Building better tools for the Stellar ecosystem**
 
 [Stellar Toolkit](https://github.com/HyperDevTools/stellar-toolkit) • 
 [Soroban Test Suite](https://github.com/HyperDevTools/soroban-test-suite) • 
